@@ -1,0 +1,7 @@
+pandas
+pydantic
+fastapi
+scikit-learn
+joblib==1.2.0
+pycaret==3.0.4
+stremlit
